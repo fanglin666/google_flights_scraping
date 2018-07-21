@@ -1,9 +1,8 @@
 {
 	"searches":[
-	{"From" : ["DME", "VKO", "SVO"],
-	 "To" : ["OKC"], 
-	 "DateStart" : "2016-10-06",
-	 "DateEnd" : "2016-10-25"
+	{"From" : ["SFO"],
+	 "To" : ["SAN"], 
+	 "DateStart" : "2018-10-06"
 	}
 	]
 }
